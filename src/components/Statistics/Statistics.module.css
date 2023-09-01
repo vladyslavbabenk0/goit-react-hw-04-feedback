@@ -1,0 +1,15 @@
+.pGood {
+  color: rgb(0, 255, 0);
+}
+
+.pNeutral {
+  color: rgb(76, 87, 249);
+}
+
+.pBad {
+  color: rgb(255, 0, 0);
+}
+
+.p {
+  color: white;
+}

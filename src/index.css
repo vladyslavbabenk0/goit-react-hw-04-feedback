@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, OpenSans, 'Courier New',
+    monospace;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(129, 59, 156);
+  margin: auto;
+  width: 450px;
+  border-radius: 120px;
+  margin-top: 50px;
+  font-size: 18px;
+}
+
